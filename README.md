@@ -1,0 +1,3 @@
+# paralisis
+paralisis
+archivo base

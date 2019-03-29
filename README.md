@@ -1,3 +1,0 @@
-# paralisis
-paralisis
-archivo base
